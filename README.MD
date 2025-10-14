@@ -94,20 +94,21 @@ Ecosistema de proyectos bajo la marca personal **STEG**.
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=atsuka-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=atsuka-dev&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AtsukaDeus&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AtsukaDeus&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atsuka-dev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtsukaDeus&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
 ### 🐍 Commit Snake Animation
 
 <p align="center">
-  <img src="https://github.com/atsuka-dev/atsuka-dev/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/AtsukaDeus/AtsukaDeus/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -116,14 +117,16 @@ Ecosistema de proyectos bajo la marca personal **STEG**.
 
 <p align="center">
   🧠 <b>Modo Dev</b><br/>
-  <img src="https://raw.githubusercontent.com/atsuka-dev/hasbulla-assets/main/hasbulla-dev.gif" width="200" alt="Hasbulla Dev Mode" /><br/><br/>
-  
+  <img src="https://raw.githubusercontent.com/AtsukaDeus/hasbulla-assets/main/hasbulla-dev.gif" width="200" /><br/><br/>
+
   🥊 <b>Modo Pelea (cuando rompe el build)</b><br/>
-  <img src="https://raw.githubusercontent.com/atsuka-dev/hasbulla-assets/main/hasbulla-fight.gif" width="200" alt="Hasbulla Fight" /><br/><br/>
-  
+  <img src="https://raw.githubusercontent.com/AtsukaDeus/hasbulla-assets/main/hasbulla-fight.gif" width="200" /><br/><br/>
+
   😎 <b>Modo Chill después del deploy</b><br/>
-  <img src="https://raw.githubusercontent.com/atsuka-dev/hasbulla-assets/main/hasbulla-chill.gif" width="200" alt="Hasbulla Chill" />
+  <img src="https://raw.githubusercontent.com/AtsukaDeus/hasbulla-assets/main/hasbulla-chill.gif" width="200" />
 </p>
+
+
 
 <p align="center">
   <b>“Cuando compila a la primera 🧠💪 — Hasbulla, 2025”</b>
