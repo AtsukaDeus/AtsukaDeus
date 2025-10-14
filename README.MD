@@ -105,27 +105,13 @@ Ecosistema de proyectos bajo la marca personal **STEG**.
 
 ---
 
-### 🐍 Commit Snake Animation
-
-<p align="center">
-  <img src="https://github.com/AtsukaDeus/AtsukaDeus/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
 ### 🥊 Hasbulla Dev Trilogy
 
 <p align="center">
-  🧠 <b>Modo Dev</b><br/>
-  <img src="assets/hallo-poll.gif" width="200" alt="Hasbulla Dev Mode" /><br/><br/>
-  
-  🥊 <b>Modo Pelea (cuando rompe el build)</b><br/>
-  <img src="assets/hasbulla-fight.gif" width="200" alt="Hasbulla Fight Mode" /><br/><br/>
-  
-  😎 <b>Modo Chill después del deploy</b><br/>
-  <img src="assets/hasbulla-thraekngif.gif" width="200" alt="Hasbulla Chill Mode" />
+  <img src="assets/hallo-poll.gif" width="200" alt="Hasbulla Dev Mode" title="🧠 Modo Dev" />
+  <img src="assets/hasbulla_fight.gif" width="200" alt="Hasbulla Fight Mode" title="🥊 Modo Pelea (cuando rompe el build)" />
+  <img src="assets/hasbulla-thraekngif.gif" width="200" alt="Hasbulla Chill Mode" title="😎 Modo Chill después del deploy" />
 </p>
-
 
 
 <p align="center">
