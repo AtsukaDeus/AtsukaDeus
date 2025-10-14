@@ -117,13 +117,13 @@ Ecosistema de proyectos bajo la marca personal **STEG**.
 
 <p align="center">
   🧠 <b>Modo Dev</b><br/>
-  <img src="https://raw.githubusercontent.com/AtsukaDeus/hasbulla-assets/main/hasbulla-dev.gif" width="200" /><br/><br/>
-
+  <img src="assets/hasbulla-dev.gif" width="200" alt="Hasbulla Dev Mode" /><br/><br/>
+  
   🥊 <b>Modo Pelea (cuando rompe el build)</b><br/>
-  <img src="https://raw.githubusercontent.com/AtsukaDeus/hasbulla-assets/main/hasbulla-fight.gif" width="200" /><br/><br/>
-
+  <img src="assets/hasbulla-fight.gif" width="200" alt="Hasbulla Fight Mode" /><br/><br/>
+  
   😎 <b>Modo Chill después del deploy</b><br/>
-  <img src="https://raw.githubusercontent.com/AtsukaDeus/hasbulla-assets/main/hasbulla-chill.gif" width="200" />
+  <img src="assets/hasbulla-chill.gif" width="200" alt="Hasbulla Chill Mode" />
 </p>
 
 
