@@ -108,7 +108,7 @@ Ecosistema de proyectos bajo la marca personal **STEG**.
 ### 🥊 Hasbulla Dev Trilogy
 
 <p align="center">
-  <img src="assets/hallo-poll.gif" width="200" alt="Hasbulla Dev Mode" title="🧠 Modo Dev" />
+  <img src="assets/hasbulla-hasbik.gif" width="200" alt="Hasbulla Dev Mode" title="🧠 Modo Dev" />
   <img src="assets/hasbullah_fight.gif" width="200" alt="Hasbulla Fight Mode" title="🥊 Modo Pelea (cuando rompe el build)" />
   <img src="assets/hasbulla-thraekngif.gif" width="200" alt="Hasbulla Chill Mode" title="😎 Modo Chill después del deploy" />
 </p>
