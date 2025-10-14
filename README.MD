@@ -116,13 +116,13 @@ Ecosistema de proyectos bajo la marca personal **STEG**.
 
 <p align="center">
   🧠 <b>Modo Dev</b><br/>
-  <img src="https://media.tenor.com/1sb5T4jQWtwAAAAC/hasbulla-programmer.gif" width="200" alt="Hasbulla Dev Mode" /><br/><br/>
+  <img src="https://tenor.com/es-419/view/деньги2-gif-4267130624156614299" width="200" alt="Hasbulla Dev Mode" /><br/><br/>
   
   🥊 <b>Modo Pelea (cuando rompe el build)</b><br/>
-  <img src="https://media.tenor.com/bAptOl4ddzUAAAAC/hasbulla-fight.gif" width="200" alt="Hasbulla Fight" /><br/><br/>
+  <img src="https://tenor.com/es-419/view/hasbulla-hasbik-cute-meme-influencer-gif-16535811372292921706" width="200" alt="Hasbulla Fight" /><br/><br/>
   
   😎 <b>Modo Chill después del deploy</b><br/>
-  <img src="https://media.tenor.com/TJXcFjHfWDoAAAAC/hasbulla-swag.gif" width="200" alt="Hasbulla Chill" />
+  <img src="https://tenor.com/es-419/view/hasbik-hasbullah-burkanov-gif-16022830788697228889" width="200" alt="Hasbulla Chill" />
 </p>
 
 <p align="center">
