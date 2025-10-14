@@ -1,35 +1,24 @@
-name: 🐍 Generate Snake Animation
+name: Generate Snake Animation
 
 on:
   schedule:
-    # Ejecutar todos los días a las 23:45 UTC (20:45 Chile)
-    - cron: "45 23 * * *"
-  workflow_dispatch: # Permite ejecutarlo manualmente desde Actions
+    - cron: "0 */24 * * *"  # se ejecuta 1 vez al día
+  workflow_dispatch:
   push:
     branches:
       - main
 
 jobs:
   build:
-    name: Generar Snake 🐍
     runs-on: ubuntu-latest
-
     steps:
-      # 🧩 Checkout del repositorio
-      - name: 🛠️ Clonar repositorio
-        uses: actions/checkout@v4
-
-      # 🧰 Usar el generador de snake de Platane
-      - name: 🐍 Generar animación de commits
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: AtsukaDeus
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          outputs: dist/github-contribution-grid-snake-dark.svg
 
-      # 📦 Subir los artefactos generados como GitHub Pages
-      - name: 🚀 Subir artefactos
+      - name: Push Snake Animation
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

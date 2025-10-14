@@ -40,6 +40,19 @@
 
 ---
 
+### 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AtsukaDeus&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AtsukaDeus&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtsukaDeus&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ### ⚙️ Experiencia técnica
 
 #### 💻 Backend
@@ -88,19 +101,6 @@ Ecosistema de proyectos bajo la marca personal **STEG**.
 - Arquitectura de **microservicios** con Spring Boot + Docker Compose  
 - Desarrollo en **Rust** y **Go** para servicios de alto rendimiento  
 - **Pipelines CI/CD avanzados** con AWS + GitHub Actions  
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AtsukaDeus&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AtsukaDeus&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtsukaDeus&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 
 ---
