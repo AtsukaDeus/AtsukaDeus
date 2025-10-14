@@ -68,7 +68,7 @@
 ### 🏗️ Proyectos destacados
 
 #### 🧱 **ACH Management Platform**
-Plataforma integral para gestión de despachos y automatización logística.  
+Plataforma integral para gestión de despachos y automatización logística para empresa ACH.  
 > 🔹 **Next.js 15 + Node.js + Python + MySQL + Docker + AWS (EC2, S3)**  
 > 🔹 Migración progresiva a **Spring Boot (Java 17)**  
 > 🔹 Integraciones con sistemas externos, scrapers y servicios automáticos  
@@ -80,7 +80,7 @@ Plataforma de fitness y rendimiento físico con enfoque en sobrecarga progresiva
 
 #### 💼 **STEG Coding**
 Ecosistema de proyectos bajo la marca personal **STEG**.  
-> 🔹 En desarrollo: **STEGym**, **SmartShopping** y herramientas DevOps internas.  
+> 🔹 En desarrollo: **SmartProgress**, **SmartShopping**, **SmartSignature** y herramientas DevOps internas.  
 
 ---
 
@@ -112,9 +112,17 @@ Ecosistema de proyectos bajo la marca personal **STEG**.
 
 ---
 
-### 🥊 Dev Mode Hasbulla
+### 🥊 Hasbulla Dev Trilogy
+
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWF6cDlpOWp3M2Y4c2VtbWw4eTZ5aDk1Mm5rMm9oOXFnaWpmOTN1YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZbVBl5E0r6kFhQwoe2/giphy.gif" width="200" alt="Hasbulla Dev Mode" />
+  🧠 <b>Modo Dev</b><br/>
+  <img src="https://media.tenor.com/1sb5T4jQWtwAAAAC/hasbulla-programmer.gif" width="200" alt="Hasbulla Dev Mode" /><br/><br/>
+  
+  🥊 <b>Modo Pelea (cuando rompe el build)</b><br/>
+  <img src="https://media.tenor.com/bAptOl4ddzUAAAAC/hasbulla-fight.gif" width="200" alt="Hasbulla Fight" /><br/><br/>
+  
+  😎 <b>Modo Chill después del deploy</b><br/>
+  <img src="https://media.tenor.com/TJXcFjHfWDoAAAAC/hasbulla-swag.gif" width="200" alt="Hasbulla Chill" />
 </p>
 
 <p align="center">
@@ -125,7 +133,7 @@ Ecosistema de proyectos bajo la marca personal **STEG**.
 
 ### 📫 Contacto
 
-📧 **francisco.argandona.dev@gmail.com**  
+📧 **fcomaths@gmail.com**  
 🌐 [stegcoding.com](https://stegcoding.com) *(en desarrollo)*  
 💼 [LinkedIn](https://www.linkedin.com/in/francisco-argandona-dev)
 
