@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Analista Programador Computacional</b> · <b>Ingeniero en Desarrollo de Software</b><br/>
-  🚀 Apasionado por el desarrollo de software, automatización y arquitectura escalable.
+   Apasionado por el desarrollo de software, automatización y arquitectura escalable.
 </p>
 
 <p align="center">
